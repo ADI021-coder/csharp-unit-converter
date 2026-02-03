@@ -1,6 +1,6 @@
 {
     Console.WriteLine("Hello World");
-    Console.WriteLine("Sinple Unit Converter");
+    Console.WriteLine("Simple Unit Converter");
 
     Console.Write("enter a number: ");
     string userNum = Console.ReadLine();
